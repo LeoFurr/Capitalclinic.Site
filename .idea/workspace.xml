@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec76766f-9b54-4988-aaf7-5d56bfee88a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Resources/Public/Styles/neosContent.css" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Public/Styles/neosContent.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,8 +28,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resources/Public/Styles/neosContent.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="633">
-              <caret line="86" column="2" lean-forward="true" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
+            <state relative-caret-position="584">
+              <caret line="96" column="26" lean-forward="true" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/Public/Styles/navigation.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="346">
+              <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -44,6 +54,7 @@
       <find>button</find>
       <find>ocram</find>
       <find>butt</find>
+      <find>image</find>
     </findStrings>
     <replaceStrings>
       <replace>capitalclinic</replace>
@@ -231,12 +242,12 @@
       <workItem from="1560164664929" duration="550000" />
       <workItem from="1560332175622" duration="8000" />
       <workItem from="1560332198346" duration="8000" />
-      <workItem from="1571009806629" duration="7280000" />
+      <workItem from="1571009806629" duration="7597000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7846000" />
+    <option name="totallyTimeSpent" value="8163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="974" extended-state="0" />
@@ -381,13 +392,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Public/Styles/navigation.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -423,10 +427,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Public/Styles/navigation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="346">
+          <caret line="57" column="1" lean-forward="true" selection-start-line="57" selection-start-column="1" selection-end-line="57" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Public/Styles/neosContent.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="633">
-          <caret line="86" column="2" lean-forward="true" selection-start-line="86" selection-start-column="2" selection-end-line="86" selection-end-column="2" />
+        <state relative-caret-position="584">
+          <caret line="96" column="26" lean-forward="true" selection-start-line="96" selection-start-column="26" selection-end-line="96" selection-end-column="26" />
         </state>
       </provider>
     </entry>
