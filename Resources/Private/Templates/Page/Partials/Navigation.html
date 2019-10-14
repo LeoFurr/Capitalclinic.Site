@@ -9,20 +9,20 @@
 
     <!-- Sky Launch Nav -->
     <!-- The overlay -->
-    <!--<div id="skyLaunchNav" class="overlay">-->
+    <div id="skyLaunchNav" class="overlay">
 
-        <!--&lt;!&ndash; Button to close the overlay navigation &ndash;&gt;-->
-        <!--&lt;!&ndash; <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"></a> &ndash;&gt;-->
-        <!--<i class="fa fa-times closebtn" aria-hidden="true" onclick="closeNav()"></i>-->
+        <!-- Button to close the overlay navigation -->
+        <!-- <a href="javascript:void(0)" class="closebtn" onclick="closeNav()"></a> -->
+        <i class="fa fa-times closebtn" aria-hidden="true" onclick="closeNav()"></i>
 
-        <!--&lt;!&ndash; Overlay content &ndash;&gt;-->
-        <!--<div class="overlay-content">-->
+        <!-- Overlay content -->
+        <div class="overlay-content">
+            {parts.menu -> f:format.raw()}
+        </div>
 
-        <!--</div>-->
+    </div>
 
-    <!--</div>-->
-
-    <!--&lt;!&ndash; Element to open/show the overlay navigation menu &ndash;&gt;-->
-    <!--<span class="sky-launcher" onclick="openNav()"><i class="fa fa-ellipsis-h" aria-hidden="true"></i></span>-->
-    <!--&lt;!&ndash; /Sky Launch Nav &ndash;&gt;-->
+    <!-- Element to open/show the overlay navigation menu -->
+    <span class="sky-launcher" onclick="openNav()"><i class="fa fa-ellipsis-h" aria-hidden="true"></i></span>
+    <!-- /Sky Launch Nav -->
 </nav>

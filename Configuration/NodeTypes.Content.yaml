@@ -24,15 +24,14 @@
             editor: 'Neos.Neos/Inspector/Editors/TextFieldEditor'
             editorOptions:
               placeholder: 'Some Title'
-      buttonHtml:
-        type: 'string'
+      amazonIcon:
+        type: boolean
+        defaultValue: FALSE
         ui:
-          label: 'Code before Title'
+          label: 'Add Amazon Icon?'
+          reloadIfChanged: TRUE
           inspector:
             group: 'advanced'
-            editor: 'Neos.Neos/Inspector/Editors/CodeEditor'
-            editorOptions:
-              highlightingMode: 'text/plain'
       url:
         type: string
         ui:

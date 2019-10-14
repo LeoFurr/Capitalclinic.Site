@@ -1,6 +1,6 @@
 {namespace neos=Neos\Neos\ViewHelpers}
 <a href="{url}">
     <button class="standardButton {color}" >
-        {buttonHtml}{title}
+        {f:if(condition:amazonIcon,then:'<i class="fa fa-amazon" aria-hidden="true"></i>')} {title}
     </button>
 </a>

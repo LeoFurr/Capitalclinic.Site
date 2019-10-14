@@ -94,6 +94,10 @@ ul.mobileMenu {
     visibility: hidden;
 }
 
+div#skyLaunchNav {
+    visibility: hidden;
+}
+
 @media(max-width: 830px) {
     nav > ul {
         visibility: hidden;
@@ -104,4 +108,9 @@ ul.mobileMenu {
         position: absolute;
         right: 0;
     }
+
+    div#skyLaunchNav {
+        visibility: visible;
+    }
+    
 }
