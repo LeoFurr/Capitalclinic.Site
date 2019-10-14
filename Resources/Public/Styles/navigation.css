@@ -40,7 +40,7 @@ nav.menu > ul > li {
     margin: 2px;
 }
 
-nav.menu > ul > li > a: {
+nav.menu > ul > li > a {
     color: var(--text-color-light) !important;
 }
 
