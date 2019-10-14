@@ -24,15 +24,14 @@
             editor: 'Neos.Neos/Inspector/Editors/TextFieldEditor'
             editorOptions:
               placeholder: 'Some Title'
-      buttonHtml:
+      'buttonHtml':
         type: 'string'
         ui:
-          label: 'Source'
+          label: 'Code before Title'
           inspector:
             group: 'advanced'
             editor: 'Neos.Neos/Inspector/Editors/CodeEditor'
             editorOptions:
-              buttonLabel: 'Edit Source, eg. Add icon code.'
               highlightingMode: 'text/html'
       url:
         type: string
