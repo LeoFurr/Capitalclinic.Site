@@ -1,0 +1,19 @@
+Neos:
+  Flow:
+    error:
+      exceptionHandler:
+        renderingGroups:
+          notFoundExceptions:
+            options:
+              variables:
+                path: '404'
+    mvc:
+      routes:
+        Capitalclinic.Site: true
+        'Neos.Neos':
+          variables:
+            # Remove .html from sites
+            'defaultUriSuffix': ''
+  Form:
+    yamlPersistenceManager:
+      savePath: 'resource://Capitalclinic.Site/Private/Form/'

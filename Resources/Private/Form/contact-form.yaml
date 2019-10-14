@@ -1,0 +1,57 @@
+type: 'Neos.Form:Form'
+identifier: contact-form
+label: Contact
+renderingOptions:
+  submitButtonLabel: Send
+renderables:
+  -
+    type: 'Neos.Form:Page'
+    identifier: page-one
+    label: Contact
+    renderables:
+      -
+        type: 'Neos.Form:SingleLineText'
+        identifier: name
+        label: Name
+        validators:
+          - identifier: 'Neos.Flow:NotEmpty'
+        properties:
+          placeholder: Name
+        defaultValue: ''
+      -
+        type: 'Neos.Form:SingleLineText'
+        identifier: email
+        label: E-Mail
+        validators:
+          - identifier: 'Neos.Flow:NotEmpty'
+          - identifier: 'Neos.Flow:EmailAddress'
+        properties:
+          placeholder: 'E-Mail'
+        defaultValue: ''
+      -
+        type: 'Neos.Form:MultiLineText'
+        identifier: message
+        label: Message
+        validators:
+          - identifier: 'Neos.Flow:NotEmpty'
+        properties:
+          placeholder: 'Your Message'
+        defaultValue: ''
+finishers:
+  -
+    identifier: 'Neos.Form:Email'
+    options:
+      templatePathAndFilename: resource://Ambit.Site/Private/Templates/Email/Message.txt
+      subject: Contact from ambitlife.com.au
+      recipientAddress: maciej@ambitlife.com.au
+      recipientName: 'Noreply ambitlife'
+      senderAddress: noreply@ambitlife.com.au
+      senderName: Noreply ambitlife
+      replyToAddress: noreply@ambitlife.com.au
+      format: plaintext
+  -
+    identifier: 'Neos.Form:Confirmation'
+    options:
+      message: >
+        <h3>Thank you for reaching out.</h3>
+        <p>We will get in touch as soon as possible.</p>

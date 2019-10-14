@@ -1,0 +1,14 @@
+prototype(Capitalclinic.Site:CapitalclinicBox) < prototype(Neos.Neos:Content) {
+    templatePath = 'resource://Capitalclinic.Site/Private/Templates/NodeTypes/CapitalclinicBox.html'
+    columnContent = Neos.Neos:ContentCollection
+    columnContent {
+        nodePath = 'column0'
+    }
+    centering = ${q(node).property('centering')}
+    color = ${q(node).property('color')}
+    backgroundImage = ${q(node).property('backgroundImage')}
+    backgroundSize = ${q(node).property('backgroundSize')}
+    backgroundPosition = ${q(node).property('backgroundPosition')}
+    artificialHeight = ${q(node).property('artificialHeight')}
+    applyHeight = ${q(node).property('applyHeight')}
+}

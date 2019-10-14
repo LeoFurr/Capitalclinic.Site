@@ -1,0 +1,33 @@
+# Custom pages operating in the document.
+
+# HomePage - only one instance allowed, defines header and footer.
+'Capitalclinic.Site:HomePage':
+  constraints:
+    nodeTypes:
+      'Capitalclinic.Site:HomePage': false
+  superTypes:
+    'Neos.NodeTypes:Page': TRUE
+  ui:
+    icon: 'icon-home'
+    label: 'Capitalclinic Homepage'
+    position: 2
+  childNodes:
+    header:
+      type: 'Neos.Neos:ContentCollection'
+    footer:
+      type: 'Neos.Neos:ContentCollection'
+
+# Standard page.
+'Capitalclinic.Site:Page':
+  constraints:
+    nodeTypes:
+      'Capitalclinic.Site:HomePage': false
+  superTypes:
+    'Neos.Neos:Document': true
+  ui:
+    icon: 'icon-file'
+    label: 'Capitalclinic Page'
+    position: 1
+  childNodes:
+    main:
+      type: 'Neos.Neos:ContentCollection'

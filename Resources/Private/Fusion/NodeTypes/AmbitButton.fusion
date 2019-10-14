@@ -1,0 +1,7 @@
+prototype(Capitalclinic.Site:CapitalclinicButton) < prototype(Neos.Neos:Content) {
+    templatePath = 'resource://Capitalclinic.Site/Private/Templates/NodeTypes/CapitalclinicButton.html'
+
+    title = ${q(node).property('title')}
+    url = ${q(node).property('url')}
+    color = ${q(node).property('color')}
+}
