@@ -23,7 +23,7 @@ Contents:
     --tint-color: #ed1d25;
     --accent-color: #0198ff;
     --accent-alt-color: #3b88c3;
-    --text-color-light: #0b0c0d;
+    --text-color-light: #333333;
     --text-color-dark: #f7f7f7;
     --background-color: #f2f2f2;
 }
@@ -212,6 +212,7 @@ p {
 
 strong {
     font-weight: 600;
+    color: var(--accent-color)
 }
 
 
