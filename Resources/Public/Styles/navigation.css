@@ -58,7 +58,7 @@ div.brand > a {
     font-weight: 600;
 }
 
-div.brand > img {
+div.brand > div.neos-nodetypes-image > figure > img {
     width 200px;
 }
 

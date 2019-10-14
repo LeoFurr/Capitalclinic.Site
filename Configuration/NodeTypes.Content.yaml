@@ -161,3 +161,40 @@
   childNodes:
     column0:
       type: 'Neos.Neos:ContentCollection'
+
+# Standard separator line
+'Capitalclinic.Site:CapitalclinicSeparator':
+  superTypes:
+    'Neos.Neos:Content': TRUE
+  ui:
+    inspector:
+      groups:
+        advanced:
+          label: 'Options'
+          icon: 'icon-adjust'
+          position: 1
+    label: 'Standard Capitalclinic Separator'
+    icon: 'icon-minus'
+    group: 'general'
+    position: 3
+  properties:
+    color:
+      type: string
+      defaultValue: '--tint-color'
+      ui:
+        label: 'Separator Color'
+        reloadIfChanged: TRUE
+        inspector:
+          group: 'advanced'
+          editor: Content/Inspector/Editors/SelectBoxEditor
+          editorOptions:
+            placeholder: 'Tint'
+            values:
+              --tint-color:
+                label: 'Tint'
+              --theme-color:
+                label: 'Theme'
+              --accent-color:
+                label: 'Accent'
+              --blue:
+                label: 'Blue'

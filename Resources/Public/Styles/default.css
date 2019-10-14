@@ -233,7 +233,7 @@ button {
     padding: 7px;
     text-align: center;
     vertical-align: middle;
-    border-radius: 3px;
+    border-radius: 20px;
     border: none;
     margin-top: 10px;
     margin-bottom: 10px;
@@ -252,7 +252,7 @@ button {
 
 button:hover {
     transform: translateX(1px);
-    background: var(--theme-color);
+    background: var(--accent-alt-color);
     cursor: pointer;
 }
 
@@ -265,7 +265,7 @@ button:active {
 /* -------------------------- Design Elements */
 
 hr {
-    border: 0.01em solid #b6babf;
+    border: 0.01em solid var(--accent-alt-color);
     margin: 0 auto;
     width: 75%;
 }

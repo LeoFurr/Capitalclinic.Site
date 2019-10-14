@@ -1,0 +1,5 @@
+prototype(Capitalclinic.Site:CapitalclinicSeparator) < prototype(Neos.Neos:Content) {
+    templatePath = 'resource://Capitalclinic.Site/Private/Templates/NodeTypes/CapitalclinicSeparator.html'
+
+    color = ${q(node).property('color')}
+}
