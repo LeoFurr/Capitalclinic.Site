@@ -16,14 +16,14 @@
     properties:
       title:
         type: string
-          ui:
-            label: 'Button Title'
-            reloadIfChanged: TRUE
-            inspector:
-              group: 'advanced'
-              editor: 'Neos.Neos/Inspector/Editors/TextFieldEditor'
-              editorOptions:
-                placeholder: 'Some Title'
+        ui:
+          label: 'Button Title'
+          reloadIfChanged: TRUE
+          inspector:
+            group: 'advanced'
+            editor: 'Neos.Neos/Inspector/Editors/TextFieldEditor'
+            editorOptions:
+              placeholder: 'Some Title'
       url:
         type: string
         ui:
