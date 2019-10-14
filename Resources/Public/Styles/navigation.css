@@ -40,7 +40,7 @@ nav.menu > ul > li {
     margin: 2px;
 }
 
-nav.menu > ul > li > a {
+nav.menu > ul > li > a:hover {
     color: var(--text-color-light) !important;
 }
 
@@ -50,16 +50,13 @@ div.brand {
     position: absolute;
     top: 20px;
     padding-left: 20px;
+    width: 200px;
 }
 
 div.brand > a {
     font-size: 18px;
     color: white;
     font-weight: 600;
-}
-
-div.brand > div.neos-nodetypes-image > figure > img {
-    width 200px;
 }
 
 li.active, li.current {
