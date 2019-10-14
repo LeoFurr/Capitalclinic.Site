@@ -58,6 +58,11 @@ div.brand > a {
     font-weight: 600;
 }
 
+div.inlineMenu {
+    display: inline-block;
+    padding-right: 100px;
+}
+
 li.active, li.current {
     color: var(--accent-alt-color);
 }
