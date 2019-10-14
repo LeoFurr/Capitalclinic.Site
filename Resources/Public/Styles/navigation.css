@@ -40,8 +40,12 @@ nav.menu > ul > li {
     margin: 2px;
 }
 
-nav.menu > ul > li > a:hover {
+nav.menu > ul > li > a: {
     color: var(--text-color-light) !important;
+}
+
+nav.menu > ul > li > a:hover {
+    color: var(--accent-color) !important;
 }
 
 
