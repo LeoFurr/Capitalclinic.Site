@@ -24,7 +24,8 @@ Contents:
     --accent-color: #0198ff;
     --accent-alt-color: #3b88c3;
     --text-color-light: #0b0c0d;
-    --text-color-dark: #f7f7f7
+    --text-color-dark: #f7f7f7;
+    --background-color: #f2f2f2;
 }
 
 /* -------------------------- Color Applicators */
@@ -67,7 +68,7 @@ body {
     margin: 0 auto;
     margin-bottom: 130px;
 
-    background-color: #f2f2f2;
+    background-color: var(--background-color);
 
     color: var(--text-color-light);
     font-family: Helvetica Neue, Helvetica, Arial, sans-serif;

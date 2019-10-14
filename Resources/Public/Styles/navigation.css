@@ -21,7 +21,7 @@ nav.menu {
 
     padding-left: 0;
     padding-right: 0;
-    height: 50px;
+    height: 100px;
 
     z-index: 9;
 }
@@ -44,6 +44,7 @@ nav.menu > ul > li > a {
     color: var(--text-color-light);
 }
 
+
 div.brand {
     display: block;
     position: absolute;
@@ -55,6 +56,10 @@ div.brand > a {
     font-size: 18px;
     color: white;
     font-weight: 600;
+}
+
+div.brand > figure {
+    width 200px;
 }
 
 li.active, li.current {
@@ -76,7 +81,6 @@ ul li ul:focus {
     visibility: visible;
     display: block;
     background: var(--accent-alt-color);
-    color: var(--accent-color);
     list-style: none;
     text-align: left;
     padding: 5px;
