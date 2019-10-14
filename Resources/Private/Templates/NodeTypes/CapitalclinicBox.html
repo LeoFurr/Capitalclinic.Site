@@ -2,7 +2,7 @@
 {namespace media=Neos\Media\ViewHelpers}
 
 <div class="container-box {centering} {color}" style="
-{f:if(condition:applyHeight,then:'height:{artificialHeight};')} background-image:url({neos.media:uri.image(image: backgroundImage)}); background-size:{backgroundSize}; background-position:{backgroundPosition};" >
+{f:if(condition:applyHeight,then:'height:{artificialHeight};')} background-image:url({neos.media:uri.image(image: backgroundImage)}); background-size:{backgroundSize}; background-position:{backgroundPosition}; padding-left:{paddingLeft}; padding-right:{paddingRight};" >
     <div class="column">
         <fusion:render path="columnContent" />
     </div>

@@ -11,4 +11,6 @@ prototype(Capitalclinic.Site:CapitalclinicBox) < prototype(Neos.Neos:Content) {
     backgroundPosition = ${q(node).property('backgroundPosition')}
     artificialHeight = ${q(node).property('artificialHeight')}
     applyHeight = ${q(node).property('applyHeight')}
+    paddingLeft = ${q(node).property('paddingLeft')}
+    paddingRight = ${q(node).property('paddingRight')}
 }

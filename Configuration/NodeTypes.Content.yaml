@@ -158,6 +158,26 @@
           editor: 'Neos.Neos/Inspector/Editors/TextFieldEditor'
           editorOptions:
             placeholder: 'eg. center center'
+    paddingLeft:
+      type: string
+      ui:
+        label: 'Spacing on the left side'
+        reloadIfChanged: TRUE
+        inspector:
+          group: 'advanced'
+          editor: 'Neos.Neos/Inspector/Editors/TextFieldEditor'
+          editorOptions:
+            placeholder: 'eg. 120px'
+    paddingRight:
+      type: string
+      ui:
+        label: 'Spacing on the right side'
+        reloadIfChanged: TRUE
+        inspector:
+          group: 'advanced'
+          editor: 'Neos.Neos/Inspector/Editors/TextFieldEditor'
+          editorOptions:
+            placeholder: 'eg. 120px'
   childNodes:
     column0:
       type: 'Neos.Neos:ContentCollection'
