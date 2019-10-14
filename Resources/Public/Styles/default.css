@@ -19,10 +19,10 @@ Contents:
 /* -------------------------- CSS Variables */
 
 :root {
-    --theme-color: #0b0c0d;
-    --tint-color: #cc4f14;
-    --accent-color: #e6510b;
-    --accent-alt-color: #272a2e;
+    --theme-color: #ffffff;
+    --tint-color: #ed1d25;
+    --accent-color: #0198ff;
+    --accent-alt-color: #3b88c3;
     --text-color-light: #0b0c0d;
     --text-color-dark: #f7f7f7
 }
