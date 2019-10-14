@@ -50,6 +50,8 @@
                   label: 'Accent'
                 --blue:
                   label: 'Blue'
+                --amazon-color:
+                  label: 'Amazon'
 
 # Container Box for elements
 'Capitalclinic.Site:CapitalclinicBox':

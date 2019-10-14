@@ -54,6 +54,10 @@ Contents:
     background: #085fac;
 }
 
+.--amazon-color {
+    background: #fe9701;
+}
+
 /* -------------------------- File Scope */
 
 html {
