@@ -41,7 +41,7 @@ nav.menu > ul > li {
 }
 
 nav.menu > ul > li > a {
-    color: var(--text-color-light);
+    color: var(--text-color-light) !important;
 }
 
 
@@ -58,7 +58,7 @@ div.brand > a {
     font-weight: 600;
 }
 
-div.brand > figure {
+div.brand > img {
     width 200px;
 }
 

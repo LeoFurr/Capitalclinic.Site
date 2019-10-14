@@ -20,7 +20,7 @@ Contents:
     padding-top: 10px;
     padding-bottom: 10px;
 
-    background: var(--background-color);
+    background: var(--theme-color);
 
     color: var(--text-color-dark);
 }
