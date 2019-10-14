@@ -94,7 +94,7 @@ ul.mobileMenu {
     visibility: hidden;
 }
 
-div#skyLaunchNav {
+span.sky-launcher {
     visibility: hidden;
 }
 
@@ -109,7 +109,7 @@ div#skyLaunchNav {
         right: 0;
     }
 
-    div#skyLaunchNav {
+    span.sky-launcher {
         visibility: visible;
     }
     
