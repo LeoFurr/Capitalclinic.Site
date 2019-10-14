@@ -24,6 +24,16 @@
             editor: 'Neos.Neos/Inspector/Editors/TextFieldEditor'
             editorOptions:
               placeholder: 'Some Title'
+      buttonHtml:
+        type: 'string'
+        ui:
+          label: 'Source'
+          inspector:
+            group: 'advanced'
+            editor: 'Neos.Neos/Inspector/Editors/CodeEditor'
+            editorOptions:
+              buttonLabel: 'Edit Source, eg. Add icon code.'
+              highlightingMode: 'text/html'
       url:
         type: string
         ui:
