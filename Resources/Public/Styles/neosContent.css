@@ -81,7 +81,12 @@ div.columns-25-50-25 {
     width: 50%;
 }
 
-div.columns-25-50-25 > div.column:first-child, div.colmn:last-child {
+div.columns-25-50-25 > div.column:first-child {
+     display: inline-block;
+     width: 25%;
+ }
+
+div.columns-25-50-25 > div.column:last-child {
     display: inline-block;
     width: 25%;
 }
