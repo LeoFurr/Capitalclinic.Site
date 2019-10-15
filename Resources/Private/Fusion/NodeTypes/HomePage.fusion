@@ -2,10 +2,8 @@
 
 prototype(Capitalclinic.Site:HomePage) < prototype(Capitalclinic.Site:Page) {
 
-    head {
-        javascripts.site {
-            code = ${q(node).property('code')}
-        }
+    headScripts {
+        code = ${q(node).property('code')}
     }
 
 

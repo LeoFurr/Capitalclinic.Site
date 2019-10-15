@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ec76766f-9b54-4988-aaf7-5d56bfee88a3" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Resources/Private/Fusion/NodeTypes/HomePage.fusion" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Private/Fusion/NodeTypes/HomePage.fusion" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Resources/Private/Templates/Page/Default.html" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Private/Templates/Page/Default.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,20 +34,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resources/Private/Fusion/NodeTypes/HomePage.fusion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resources/Private/Fusion/NodeTypes/Page.fusion">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="75" lean-forward="true" selection-start-column="75" selection-end-column="75" />
+            <state relative-caret-position="85">
+              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -54,17 +46,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resources/Private/Fusion/Root.fusion">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="306">
+              <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/Page/Default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="14" />
+            <state relative-caret-position="168">
+              <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -124,8 +116,8 @@
         <option value="$PROJECT_DIR$/Resources/Private/Templates/NodeTypes/CapitalclinicButton.html" />
         <option value="$PROJECT_DIR$/Resources/Public/Styles/navigation.css" />
         <option value="$PROJECT_DIR$/Configuration/NodeTypes.Document.Page.yaml" />
-        <option value="$PROJECT_DIR$/Resources/Private/Templates/Page/Default.html" />
         <option value="$PROJECT_DIR$/Resources/Private/Fusion/NodeTypes/HomePage.fusion" />
+        <option value="$PROJECT_DIR$/Resources/Private/Templates/Page/Default.html" />
       </list>
     </option>
   </component>
@@ -283,12 +275,12 @@
       <workItem from="1560332175622" duration="8000" />
       <workItem from="1560332198346" duration="8000" />
       <workItem from="1571009806629" duration="13067000" />
-      <workItem from="1571135702325" duration="857000" />
+      <workItem from="1571135702325" duration="1178000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14490000" />
+    <option name="totallyTimeSpent" value="14811000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="974" extended-state="0" />
@@ -454,31 +446,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/Page/Default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Private/Fusion/Root.fusion">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Private/Fusion/NodeTypes/Page.fusion">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="75" lean-forward="true" selection-start-column="75" selection-end-column="75" />
+        <state relative-caret-position="408">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Resources/Private/Fusion/NodeTypes/HomePage.fusion">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Private/Fusion/Root.fusion">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/Page/Default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
         </state>
       </provider>
     </entry>
