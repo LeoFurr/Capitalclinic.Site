@@ -17,3 +17,8 @@ Neos:
   Form:
     yamlPersistenceManager:
       savePath: 'resource://Capitalclinic.Site/Private/Form/'
+  GoogleAnalytics:
+    sites:
+      Capitalclinic.Site:
+        analytics:
+          id: 'UA-54876936-5'
