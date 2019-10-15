@@ -8,9 +8,26 @@
   superTypes:
     'Neos.NodeTypes:Page': TRUE
   ui:
+    inspector:
+      groups:
+        advanced:
+          label: 'Options'
+          icon: 'icon-adjust'
+          position: 1
     icon: 'icon-home'
     label: 'Capitalclinic Homepage'
     position: 2
+  properties:
+    code:
+      type: string
+      ui:
+        label: 'Header Code'
+        reloadIfChanged: TRUE
+        inspector:
+          group: 'advanced'
+          editor: 'Neos.Neos/Inspector/Editors/TextFieldEditor'
+          editorOptions:
+            placeholder: 'eg. Google Analytics'
   childNodes:
     header:
       type: 'Neos.Neos:ContentCollection'
