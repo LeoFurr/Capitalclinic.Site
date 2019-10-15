@@ -5,12 +5,6 @@
 # If you want to understand how this page rendering works, have a look at
 # http://neos.readthedocs.io/en/stable/CreatingASite/RenderingCustomMarkup/PageRendering.html
 prototype(Capitalclinic.Site:Page) < prototype(Capitalclinic.Site:DefaultPage) {
-    head {
-        code {
-            content = ${q(site).find('code').children()}
-        }
-    }
-
     body {
         content {
             main = Neos.Neos:PrimaryContent {

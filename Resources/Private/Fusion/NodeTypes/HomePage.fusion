@@ -1,13 +1,6 @@
 // Fusion defining additional conent areas of HomePage NodeType.
 
 prototype(Capitalclinic.Site:HomePage) < prototype(Capitalclinic.Site:Page) {
-    head {
-        code {
-            content = ${q(node).property('code')}
-        }
-    }
-
-
     body {
         content {
             header = Neos.Neos:ContentCollection {
