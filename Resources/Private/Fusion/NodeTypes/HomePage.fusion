@@ -1,10 +1,8 @@
 // Fusion defining additional conent areas of HomePage NodeType.
 
 prototype(Capitalclinic.Site:HomePage) < prototype(Capitalclinic.Site:Page) {
-
     head {
-        code = Neos.Neos:Content {
-            templatePath = 'resource://Capitalclinic.Site/Private/Templates/Page/Default.html'
+        code {
             content = ${q(node).property('code')}
         }
     }
