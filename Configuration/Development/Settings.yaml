@@ -1,7 +1,7 @@
 Neos:
   GoogleAnalytics:
     sites:
-      capitalclinic.com.au:
+      default:
         analytics:
           id: 'UA-54876936-5'
         profileId: 203908607

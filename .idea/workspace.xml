@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec76766f-9b54-4988-aaf7-5d56bfee88a3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configuration/Development/Settings.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration/Development/Settings.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configuration/Settings.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration/Settings.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Resources/Private/Templates/Page/Default.html" beforeDir="false" afterPath="$PROJECT_DIR$/Resources/Private/Templates/Page/Default.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,25 +21,25 @@
         <entry file="file://$PROJECT_DIR$/Configuration/Settings.yaml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
-              <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Configuration/Development/Settings.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Configuration/Development/Settings.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/Page/Default.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+            <state relative-caret-position="578">
+              <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -89,9 +90,9 @@
         <option value="$PROJECT_DIR$/Resources/Private/Fusion/NodeTypes/HomePage.fusion" />
         <option value="$PROJECT_DIR$/Resources/Private/Fusion/NodeTypes/Page.fusion" />
         <option value="$PROJECT_DIR$/Configuration/NodeTypes.Document.Page.yaml" />
+        <option value="$PROJECT_DIR$/Resources/Private/Templates/Page/Default.html" />
         <option value="$PROJECT_DIR$/Configuration/Settings.yaml" />
         <option value="$PROJECT_DIR$/Configuration/Development/Settings.yaml" />
-        <option value="$PROJECT_DIR$/Resources/Private/Templates/Page/Default.html" />
       </list>
     </option>
   </component>
@@ -190,12 +191,12 @@
       <workItem from="1560332198346" duration="8000" />
       <workItem from="1571009806629" duration="13067000" />
       <workItem from="1571135702325" duration="3548000" />
-      <workItem from="1571225604555" duration="1768000" />
+      <workItem from="1571225604555" duration="1916000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18949000" />
+    <option name="totallyTimeSpent" value="19097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="974" extended-state="0" />
@@ -375,24 +376,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/Page/Default.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="16" lean-forward="true" selection-start-line="34" selection-start-column="16" selection-end-line="34" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Configuration/Settings.yaml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="27" lean-forward="true" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Configuration/Development/Settings.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/Page/Default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
