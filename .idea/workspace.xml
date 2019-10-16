@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec76766f-9b54-4988-aaf7-5d56bfee88a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Configuration/Development/Settings.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Configuration/Settings.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration/Settings.yaml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,28 +17,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Configuration/NodeTypes.Document.Page.yaml">
+        <entry file="file://$PROJECT_DIR$/Configuration/Settings.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+            <state relative-caret-position="323">
+              <caret line="19" selection-start-line="19" selection-end-line="24" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Configuration/Settings.yaml">
+        <entry file="file://$PROJECT_DIR$/Configuration/Development/Settings.yaml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Resources/Private/Templates/Page/Default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="102">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -91,6 +82,7 @@
         <option value="$PROJECT_DIR$/Resources/Private/Fusion/NodeTypes/Page.fusion" />
         <option value="$PROJECT_DIR$/Configuration/NodeTypes.Document.Page.yaml" />
         <option value="$PROJECT_DIR$/Configuration/Settings.yaml" />
+        <option value="$PROJECT_DIR$/Configuration/Development/Settings.yaml" />
       </list>
     </option>
   </component>
@@ -116,98 +108,6 @@
               <item name="Capitalclinic.Site" type="b2602c69:ProjectViewProjectNode" />
               <item name="Capitalclinic.Site" type="462c0819:PsiDirectoryNode" />
               <item name="Configuration" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Capitalclinic.Site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Capitalclinic.Site" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Capitalclinic.Site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Capitalclinic.Site" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Private" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Capitalclinic.Site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Capitalclinic.Site" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Private" type="462c0819:PsiDirectoryNode" />
-              <item name="Content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Capitalclinic.Site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Capitalclinic.Site" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Private" type="462c0819:PsiDirectoryNode" />
-              <item name="Form" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Capitalclinic.Site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Capitalclinic.Site" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Private" type="462c0819:PsiDirectoryNode" />
-              <item name="Fusion" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Capitalclinic.Site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Capitalclinic.Site" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Private" type="462c0819:PsiDirectoryNode" />
-              <item name="Fusion" type="462c0819:PsiDirectoryNode" />
-              <item name="NodeTypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Capitalclinic.Site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Capitalclinic.Site" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Private" type="462c0819:PsiDirectoryNode" />
-              <item name="Templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Capitalclinic.Site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Capitalclinic.Site" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Private" type="462c0819:PsiDirectoryNode" />
-              <item name="Templates" type="462c0819:PsiDirectoryNode" />
-              <item name="NodeTypes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Capitalclinic.Site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Capitalclinic.Site" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Private" type="462c0819:PsiDirectoryNode" />
-              <item name="Templates" type="462c0819:PsiDirectoryNode" />
-              <item name="Page" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Capitalclinic.Site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Capitalclinic.Site" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Private" type="462c0819:PsiDirectoryNode" />
-              <item name="Templates" type="462c0819:PsiDirectoryNode" />
-              <item name="Page" type="462c0819:PsiDirectoryNode" />
-              <item name="Partials" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Capitalclinic.Site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Capitalclinic.Site" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Public" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Capitalclinic.Site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Capitalclinic.Site" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Public" type="462c0819:PsiDirectoryNode" />
-              <item name="Scripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Capitalclinic.Site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Capitalclinic.Site" type="462c0819:PsiDirectoryNode" />
-              <item name="Resources" type="462c0819:PsiDirectoryNode" />
-              <item name="Public" type="462c0819:PsiDirectoryNode" />
-              <item name="Styles" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -249,12 +149,12 @@
       <workItem from="1560332198346" duration="8000" />
       <workItem from="1571009806629" duration="13067000" />
       <workItem from="1571135702325" duration="3548000" />
-      <workItem from="1571225604555" duration="517000" />
+      <workItem from="1571225604555" duration="1166000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17698000" />
+    <option name="totallyTimeSpent" value="18347000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="974" extended-state="0" />
@@ -429,8 +329,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Configuration/NodeTypes.Document.Page.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="14" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+        <state relative-caret-position="544">
+          <caret line="32" column="41" lean-forward="true" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Configuration/Settings.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="24" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -441,10 +348,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Configuration/Settings.yaml">
+    <entry file="file://$PROJECT_DIR$/Configuration/Development/Settings.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        <state relative-caret-position="102">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
